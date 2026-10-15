@@ -16,11 +16,11 @@
 
 #### Лекции
 
-- [Лекция 3. Основы теории информации](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-3.pdf)
-- [Лекция 4. Файлы как источники ДС](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-4.pdf)
-- [Лекция 5. Модели источников ДС](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-5.pdf)
-- [Лекция 6. Основы кодирования и шифрования сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-6.pdf)
-- [Лекция 7. Сжатие сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-7.pdf)
+- [3. Основы теории информации](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-3.pdf)
+- [4. Файлы как источники ДС](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-4.pdf)
+- [5. Модели источников ДС](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-5.pdf)
+- [6. Основы кодирования и шифрования сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-6.pdf)
+- [7. Сжатие сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-7.pdf)
 
 #### Практика
 
@@ -32,3 +32,4 @@
 - [Краткое введение в программирование на Python (2)](https://github.com/VitalyVorobyev/CppPython2019/blob/master/Lectures/python/L6_PythonIntro2.ipynb)
 - [SciPy: научные вычисления](https://github.com/VitalyVorobyev/CppPython2019/blob/master/Lectures/python/L7_SciPy.ipynb)
 - [Документация по функциям численного интегрирования SciPy](https://docs.scipy.org/doc/scipy/reference/integrate.html#integrating-functions-given-fixed-samples)
+- [Все о сжатии данных, изображений, видео](https://compression.ru/book/)
