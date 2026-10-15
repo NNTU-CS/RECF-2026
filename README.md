@@ -5,13 +5,13 @@
 
 - [Лекция 1. Введение](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-1.pdf)
 - [Лекция 2. Инструменты программирования и визуализации](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-2.pdf)
-- [Лаб. работа 1. Использование метода численного интегрирования и визуализации](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-01)
+  - [Лаб. работа 1. Использование метода численного интегрирования и визуализации](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-01)
 
 ## Раздел 2. Сообщения и коды
 
 - [Лекция 3. Основы теории информации](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-3.pdf)
 - [Лекция 4. Файлы как источники ДС](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-4.pdf)
-- [Лаб. работа №2. Исследование частотных свойств файлов, как источников символов](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-02)
+  - [Лаб. работа №2. Исследование частотных свойств файлов, как источников символов](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-02)
 - [Лекция 5. Модели источников ДС](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-5.pdf)
 - [Лекция 6. Основы кодирования и шифрования сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-6.pdf)
 - [Лекция 7. Сжатие сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-7.pdf)
