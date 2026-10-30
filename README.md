@@ -21,11 +21,14 @@
 - [5. Модели источников ДС](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-5.pdf)
 - [6. Основы кодирования и шифрования сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-6.pdf)
 - [7. Сжатие сообщений](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-7.pdf)
+- [8. Дискретные каналы связи](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-8.pdf)
+- [9. Корректирующие коды](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-9.pdf) 
 
 #### Практика
 
 - [2. Исследование частотных свойств файлов, как источников символов](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-02)
 - [3. Исследование префиксного кода и алгоритма ''стопка книг''](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-03)
+- [4. Моделирование канала дискретных сообщений с помехами и с использованием корректирующих кодов](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-04)
 
 ## Полезные ссылки
 
