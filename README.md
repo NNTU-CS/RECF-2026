@@ -30,6 +30,16 @@
 - [3. Исследование префиксного кода и алгоритма ''стопка книг''](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-03)
 - [4. Моделирование канала дискретных сообщений с помехами и с использованием корректирующих кодов](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-04)
 
+## Раздел 3. Сигналы
+
+#### Лекции
+
+- [10. Сигналы и их программная генерация](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-10.pdf) 
+- [11. Спектры сигналов](https://github.com/NNTU-CS/RECF-2026/blob/main/Lections/lec-11.pdf) 
+
+
+#### Практика
+
 ## Полезные ссылки
 
 - [Краткое введение в программирование на Python (1)](https://github.com/VitalyVorobyev/CppPython2019/blob/master/Lectures/python/L5_Python_Introduction.ipynb)
