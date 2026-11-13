@@ -40,6 +40,8 @@
 
 #### Практика
 
+- [5. Генерирование и визуализация сигналов](https://github.com/NNTU-CS/RECF-2026/blob/main/Labs/Lab-05)
+
 ## Полезные ссылки
 
 - [Краткое введение в программирование на Python (1)](https://github.com/VitalyVorobyev/CppPython2019/blob/master/Lectures/python/L5_Python_Introduction.ipynb)
